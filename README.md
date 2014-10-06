@@ -1,4 +1,4 @@
-programming-basics
+intro-to-jquery
 ==================
 
-curriculum on programming basics for railsbridge workshops
+introductory curriculum on jquery for railsbridge workshops
